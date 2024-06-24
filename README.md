@@ -1,3 +1,7 @@
+ flutter build apk --split-per-abi <br> ![image](https://github.com/LascanoAldahir/App_card_flutter/assets/139184732/3fda9964-fe7c-4de5-9d69-afb3f0e32960)
+<br>![image](https://github.com/LascanoAldahir/App_card_flutter/assets/139184732/1848897a-dce2-4dce-b4c2-5120371f2e81)
+
+
 # flutter_application_1
 
 A new Flutter project.
